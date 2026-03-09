@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: my-first-pkg
+Version: 0.0.0
+Summary: First ROS2 package for Mobile Robotics Lab
+Home-page: UNKNOWN
+Maintainer: esha
+Maintainer-email: esha@todo.todo
+License: TODO: License declaration
+Platform: UNKNOWN
+Provides-Extra: test
+
+UNKNOWN
+
