@@ -1,3 +1,0 @@
-[console_scripts]
-move_turtle = my_turtle_package.move_turtle:main
-
