@@ -1,0 +1,4 @@
+[console_scripts]
+goto = my_turtle_package.goto:main
+move_turtle = my_turtle_package.move_turtle:main
+

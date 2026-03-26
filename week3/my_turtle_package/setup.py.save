@@ -1,0 +1,21 @@
+from setuptools import setup
+
+package_name = 'my_turtle_package'
+
+setup(
+    name=package_name,
+    version='0.0.1',
+    packages=[package_name],
+    install_requires=['setuptools'],
+    zip_safe=True,
+    maintainer='esha',
+    maintainer_email='esha@example.com',
+    description='ROS2 TurtleSim multi-turtle demo',
+    license='Apache License 2.0',
+    entry_points={
+        'console_scripts': [
+            'move_turtle
+ = my_turtle_package.move_turtle:main',
+        ],
+    },
+)

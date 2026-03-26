@@ -1,0 +1,33 @@
+running egg_info
+creating build/my_turtle_package/my_turtle_package.egg-info
+writing build/my_turtle_package/my_turtle_package.egg-info/PKG-INFO
+writing dependency_links to build/my_turtle_package/my_turtle_package.egg-info/dependency_links.txt
+writing entry points to build/my_turtle_package/my_turtle_package.egg-info/entry_points.txt
+writing requirements to build/my_turtle_package/my_turtle_package.egg-info/requires.txt
+writing top-level names to build/my_turtle_package/my_turtle_package.egg-info/top_level.txt
+writing manifest file 'build/my_turtle_package/my_turtle_package.egg-info/SOURCES.txt'
+reading manifest file 'build/my_turtle_package/my_turtle_package.egg-info/SOURCES.txt'
+writing manifest file 'build/my_turtle_package/my_turtle_package.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/build/my_turtle_package/build
+creating /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/build/my_turtle_package/build/lib
+creating /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/build/my_turtle_package/build/lib/my_turtle_package
+copying my_turtle_package/move_turtle.py -> /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/build/my_turtle_package/build/lib/my_turtle_package
+copying my_turtle_package/__init__.py -> /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/build/my_turtle_package/build/lib/my_turtle_package
+copying my_turtle_package/goto.py -> /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/build/my_turtle_package/build/lib/my_turtle_package
+running install
+running install_lib
+creating /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package
+copying /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/build/my_turtle_package/build/lib/my_turtle_package/move_turtle.py -> /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package
+copying /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/build/my_turtle_package/build/lib/my_turtle_package/__init__.py -> /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package
+copying /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/build/my_turtle_package/build/lib/my_turtle_package/goto.py -> /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package
+byte-compiling /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package/move_turtle.py to move_turtle.cpython-310.pyc
+byte-compiling /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package/goto.py to goto.cpython-310.pyc
+running install_egg_info
+Copying build/my_turtle_package/my_turtle_package.egg-info to /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/install/my_turtle_package/lib/python3.10/site-packages/my_turtle_package-0.0.0-py3.10.egg-info
+running install_scripts
+Installing goto script to /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/install/my_turtle_package/lib/my_turtle_package
+Installing move_turtle script to /home/esha/Mr-lab _eshamajad/week3/my_turtle_package/install/my_turtle_package/lib/my_turtle_package
+writing list of installed files to '/home/esha/Mr-lab _eshamajad/week3/my_turtle_package/build/my_turtle_package/install.log'
